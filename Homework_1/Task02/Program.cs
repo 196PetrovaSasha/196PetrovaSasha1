@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Homework1._1
+namespace Task02
 {
-    
-    class Task02
+    class Program
     {
         static void Main(string[] args)
         {
+        
             Console.WriteLine("++++++    ++++++++  ++++++++++  ++++++    ++++++++  ++        ++      ++");
             Console.WriteLine("++    ++  ++            ++      ++    ++  ++    ++   ++      ++      ++++   ");
             Console.WriteLine("++    ++  ++            ++      ++    ++  ++    ++    ++    ++      ++  ++  ");
@@ -14,7 +14,9 @@ namespace Homework1._1
             Console.WriteLine("++        ++            ++      ++  ++    ++    ++     ++  ++      ++++++++  ");
             Console.WriteLine("++        ++            ++      ++   ++   ++    ++       +++       ++    ++    ");
             Console.WriteLine("++        ++++++++      ++      ++    ++  ++++++++        +        ++    ++");
+            
         }
     }
-}
 
+}
+    
